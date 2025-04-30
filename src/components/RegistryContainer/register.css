@@ -1,0 +1,24 @@
+
+.bg-shopping-list {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+    height: 100%;
+    background-color: white;
+    border-radius:0 0 0 45vw;
+    background-size: cover;
+    background-image: url("https://hips.hearstapps.com/hmg-prod/images/gettyimages-734166301-1557184837.jpg?crop=1.00xw:0.669xh;0,0.220xh&resize=1200:*");
+    background-position: center center;
+  }
+
+  /* @media (max-width: 575.98px){ */
+  @media (max-width: 900px){
+    .parent-box-form{
+      width: "70%";
+    }
+    .imageContainer{
+      border: 1px solid green;
+      display: none;
+    }
+  }

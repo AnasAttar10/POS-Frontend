@@ -1,0 +1,47 @@
+{
+    "products":[
+        {"id":1 ,"name" :"apple" , "Code":"000" ,"Category":"fruits","Image":"https://subzfresh.com/wp-content/uploads/2022/04/apple_158989157.jpg" ,"Price":5 , "unitOfMeasure":""},
+        {"id":2 ,"name" :"banana" , "Code":"000" ,"Category":"fruits","Image":"https://m.media-amazon.com/images/I/51ebZJ+DR4L._AC_UF1000,1000_QL80_.jpg" ,"Price":6 , "unitOfMeasure":""},
+        {"id":3 ,"name" :"carrot" , "Code":"000" ,"Category":"vegetable","Image":"https://seed2plant.in/cdn/shop/products/carrotseeds.jpg?v=1604032858" ,"Price":10 , "unitOfMeasure":""},
+        {"id":4 ,"name" :"Cucumber" , "Code":"000" ,"Category":"vegetable","Image":"https://cdnprod.mafretailproxy.com/sys-master-root/h5f/hd1/48502207053854/1700Wx1700H_9304_main.jpg" ,"Price":15 , "unitOfMeasure":""},
+        {"id":5 ,"name" :"chicken" , "Code":"000" ,"Category":"chicken","Image":"https://hadfnews.ps/img/h5NpR.jpg" ,"Price":20 , "unitOfMeasure":""},
+        {"id":6 ,"name" :"chicken thighs" , "Code":"000" ,"Category":"chicken","Image":"https://cdnprod.mafretailproxy.com/sys-master-root/ha5/h15/30490438139934/31779_main.jpg_480Wx480H" ,"Price":25 , "unitOfMeasure":""},
+        {"id":7 ,"name" :"chopped meat" , "Code":"000" ,"Category":"meat","Image":"https://izzycooking.com/wp-content/uploads/2021/11/Defrosting-ground-beef-thumbnail-1.jpg" ,"Price":30 , "unitOfMeasure":""},
+        {"id":8 ,"name" :"cheetos" , "Code":"000" ,"Category":"888","Image":"https://images.heb.com/is/image/HEBGrocery/001962877-1?jpegSize=150&hei=1400&fit=constrain&qlt=75" ,"Price":5 , "unitOfMeasure":""},
+        {"id":9 ,"name" :"doritos" , "Code":"000" ,"Category":"888","Image":"https://target.scene7.com/is/image/Target/GUEST_dd139ff5-c1ab-4071-9c2c-e7dd74d9251c?wid=488&hei=488&fmt=pjpeg" ,"Price":5 , "unitOfMeasure":""},
+        {"id":10 ,"name" :"eggpiant" , "Code":"000" ,"Category":"vegetable","Image":"https://i5.walmartimages.com/asr/4307b532-ea7b-4b41-82b0-5ece9e9ab30c.431696526ff3c9ed9dbb45c1f9f233e7.jpeg" ,"Price":50 , "unitOfMeasure":""},
+        {"id":11 ,"name" :"fanta" , "Code":"000" ,"Category":"666","Image":"https://www.coca-cola.co.uk/content/dam/one/gb/en/product/fanta-organe-600x400.jpg" ,"Price":3 , "unitOfMeasure":""},
+        {"id":12 ,"name" :"fish" , "Code":"000" ,"Category":"vegetable","Image":"https://www.thelist.com/img/gallery/what-happens-to-your-body-when-you-stop-eating-fish/l-intro-1615430058.jpg" ,"Price":70 , "unitOfMeasure":""},
+        {"id":13 ,"name" :"eggpiant" , "Code":"000" ,"Category":"vegetable","Image":"https://insanelygoodrecipes.com/wp-content/uploads/2020/03/eggplant.png" ,"Price":50 , "unitOfMeasure":""},
+        {"id":14 ,"name" :"eggpiant" , "Code":"000" ,"Category":"vegetable","Image":"https://insanelygoodrecipes.com/wp-content/uploads/2020/03/eggplant.png" ,"Price":50 , "unitOfMeasure":""}
+    ],
+    "Categories":[
+        {"id":1 , "name":"fruits" , "Image":"https://www.xiaosanfruits.com.sg/pub/media/group_of_fruits-2.png"},
+        {"id":2 , "name":"vegetable" , "Image":"https://www.lalpathlabs.com/blog/wp-content/uploads/2019/01/Fruits-and-Vegetables.jpg"},
+        {"id":3 , "name":"chicken" , "Image":"https://cdnprod.mafretailproxy.com/sys-master-root/ha5/h15/30490438139934/31779_main.jpg_480Wx480H"},
+        {"id":4 , "name":"meat" , "Image":"https://izzycooking.com/wp-content/uploads/2021/11/Defrosting-ground-beef-thumbnail-1.jpg"}
+    ],
+    "cartItems":[
+        {   
+            "name":"cart1" , 
+            "products":[
+            {"id":1 ,"name" :"apple" ,"quantity":3, "Code":"000" ,"Category":"fruits","Image":"https://subzfresh.com/wp-content/uploads/2022/04/apple_158989157.jpg" ,"Price":5 , "unitOfMeasure":""},
+            {"id":2 ,"name" :"banana" ,"quantity":1, "Code":"000" ,"Category":"fruits","Image":"https://m.media-amazon.com/images/I/51ebZJ+DR4L._AC_UF1000,1000_QL80_.jpg" ,"Price":6 , "unitOfMeasure":""},
+            {"id":3 ,"name" :"carrot" ,"quantity":1, "Code":"000" ,"Category":"vegetable","Image":"https://seed2plant.in/cdn/shop/products/carrotseeds.jpg?v=1604032858" ,"Price":10 , "unitOfMeasure":""}
+        ]},
+        {   
+            "name":"cart2",
+            "products":[
+            {"id":4 ,"name" :"Cucumber" ,"quantity":1, "Code":"000" ,"Category":"vegetable","Image":"https://cdnprod.mafretailproxy.com/sys-master-root/h5f/hd1/48502207053854/1700Wx1700H_9304_main.jpg" ,"Price":15 , "unitOfMeasure":""},
+            {"id":5 ,"name" :"chicken" ,"quantity":1, "Code":"000" ,"Category":"chicken","Image":"https://hadfnews.ps/img/h5NpR.jpg" ,"Price":20 , "unitOfMeasure":""},
+            {"id":6 ,"name" :"chicken thighs" ,"quantity":1, "Code":"000" ,"Category":"chicken","Image":"https://cdnprod.mafretailproxy.com/sys-master-root/ha5/h15/30490438139934/31779_main.jpg_480Wx480H" ,"Price":25 , "unitOfMeasure":""}
+        ]},
+        {   
+            "name":"cart3",
+            "products":[
+            {"id":7 ,"name" :"chopped meat" ,"quantity":1 ,  "Code":"000" ,"Category":"meat","Image":"https://izzycooking.com/wp-content/uploads/2021/11/Defrosting-ground-beef-thumbnail-1.jpg" ,"Price":30 , "unitOfMeasure":""},
+            {"id":8 ,"name" :"cheetos" ,"quantity":1, "Code":"000" ,"Category":"888","Image":"https://images.heb.com/is/image/HEBGrocery/001962877-1?jpegSize=150&hei=1400&fit=constrain&qlt=75" ,"Price":5 , "unitOfMeasure":""},
+            {"id":9 ,"name" :"doritos" ,"quantity":1, "Code":"000" ,"Category":"888","Image":"https://target.scene7.com/is/image/Target/GUEST_dd139ff5-c1ab-4071-9c2c-e7dd74d9251c?wid=488&hei=488&fmt=pjpeg" ,"Price":5 , "unitOfMeasure":""}
+        ]}
+    ]
+}
