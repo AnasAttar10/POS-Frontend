@@ -10,7 +10,7 @@ The system supports real-time product and sales tracking, multi-role access, and
 - 🌐 **Live Website**: [pos-frontend-eta.vercel.app/login](https://pos-frontend-eta.vercel.app/login)  
 - 💻 **Frontend Repository**: [GitHub - POS Frontend](https://github.com/AnasAttar10/POS-Frontend)  
 - 🛠️ **Backend Repository**: [GitHub - POS Backend](https://github.com/AnasAttar10/POS-server)  
-- 🎥 **Demo Video**: [Watch on YouTube](https://www.youtube.com/watch?v=DqbdwnLG2Jg)  
+- 🎥 **Demo Video**: [Watch on YouTube]([https://www.youtube.com/watch?v=DqbdwnLG2Jg](https://www.youtube.com/watch?v=pg75N4vhYb8))  
 ---
 ## Installation
 To run the POS Project, ensure that you have the following prerequisites: Node.js NPM Follow these steps to install and set up the project:
