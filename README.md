@@ -1,8 +1,10 @@
 # POS Project !
 The POS Project is a web application designed to serve as a Point-of-Sale system for supermarkets. It provides features for managing products and carts, allowing users to handle multiple carts and calculate the total amount for each order. Users can add descriptions to the carts for additional details.
 ### This application is responsive to different screens 
-## live Demo :
-https://www.youtube.com/watch?v=pg75N4vhYb8
+## links :
+- 🌐 Live Demo: [https://your-demo-link.com ](https://pos-frontend-eta.vercel.app/login) 
+- 🛠️ GitHub (Backend): [https://github.com/your-backend](https://github.com/AnasAttar10/POS-server)  
+- 🎥 Demo Video: [https://youtu.be/your-demo-video](https://www.youtube.com/watch?v=pg75N4vhYb8)
 # Installation
 To run the POS Project, ensure that you have the following prerequisites: Node.js NPM Follow these steps to install and set up the project:
    1. Clone the repository
